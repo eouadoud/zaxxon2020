@@ -1,0 +1,2 @@
+D:\Downloads\zaxxon-master\zaxxon2020\x64\Debug\Zaxxon2020.exe
+D:\Downloads\zaxxon-master\zaxxon2020\x64\Debug\Zaxxon2020.pdb

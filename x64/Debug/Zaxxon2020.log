@@ -1,0 +1,25 @@
+﻿  Game.cpp
+D:\Downloads\zaxxon-master\zaxxon2020\Game.cpp(221,11): warning C4244: 'initialisation' : conversion de 'const T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Downloads\zaxxon-master\zaxxon2020\Game.cpp(222,11): warning C4244: 'initialisation' : conversion de 'const T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Downloads\zaxxon-master\zaxxon2020\Game.cpp(223,30): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Downloads\zaxxon-master\zaxxon2020\Game.cpp(224,28): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Downloads\zaxxon-master\zaxxon2020\Game.cpp(1021,12): warning C4244: 'initialisation' : conversion de '__int64' en 'int', perte possible de données
+  Zaxxon2020.cpp
+  Génération de code en cours...
+  Zaxxon2020.vcxproj -> D:\Downloads\zaxxon-master\zaxxon2020\x64\Debug\Zaxxon2020.exe
